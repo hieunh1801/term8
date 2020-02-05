@@ -1,0 +1,96 @@
+Thi giữa kỳ:
+2 bài?
+- Một bài cá nhân
+- Một bài giao cho lớp
+
+Cuối kỳ:
+- Tự chọn đề tài
+-
+
+- Nhật ký sản lượng khoán cá nhân
+	- Ca
+	- Giờ bắt đầu
+	- Giờ kết thúc
+	- Nhân công
+	- Nhật ký lao động khoán nhóm
+- Nhật ký sản lượng khoán
+	- Ngày thực hiện khoán
+	- Ca
+	- Giờ bắt đầu
+	- Giờ kết thúc
+#	- Danh mục công nhân thực hiện khoán
+#	- Danh mục các công việc khoán mà tổ công nhân đã làm
+- Làm việc khoán cá nhân
+	- Nhật ký sản lượng khoán cá nhân
+	- Công việc khoán
+
+- Thông tin công việc khoán:
+	- Mã công việc
+	- Tên công việc
+	- Nhật ký lao động khoán
+	- Sản lượng thực tế đạt được
+	- Số lô sản phẩm
+	- Sản phẩm áp dụng
+- Thông tin danh mục khoán gồm có:
+	- Mã công việc
+	- Tên công việc
+	- Định mức khoán
+	- Đơn vị khoán (kg, thùng, hộp, tuýp, vỉ…)
+	- Hệ số khoán
+	- Định mức lao động
+	- Đơn giá = 126 360 * Hệ số khoán * Định mức lao động / Định mức khoán
+- Thông tin nhân công:
+	- Mã nhân công
+	- Họ tên
+	- Ngày tháng năm sinh
+	- Phòng ban
+	- Chức vụ
+	- Quê quán
+	- Lương bảo hiểm
+- Thông tin sản phẩm:
+	- Mã sản phẩm
+	- Tên sản phẩm
+	- Số đăng ký
+	- Hạn sử dụng
+	- Quy cách
+	- Ngày đăng ký
+
+>Nhật ký sản lượng khoán ✓
+	Ngày thực hiện
+	Giờ bắt đầu
+	Giờ kết thúc
+	Ca
+	Danh mục công nhân thực hiện khoán
+	Danh mục các công việc khoán mà công nhân đã làm
+
+>Thông tin công việc ✓
+	Mã công việc
+	Sản lượng thực tế đạt được
+	Số lô sản phẩm
+	Sản phẩm áp dụng
+
+>Thông tin các danh mục khoán trong công ty
+	Mã công việc
+	Tên công việc
+	Định mức khoán
+	Đơn vị khoán
+	Hệ số khoán
+	Định mức lao động
+	Đơn giá = 126 360*Hệ số khoán*Định mức lao động/Định mức khoán
+
+>Thông tin nhân công
+	Mã nhân công
+	Họ tên
+	Ngày tháng năm sinh
+	Phòng ban
+	Chức vụ
+	Quê quán
+	Lương bảo hiểm
+
+>Thông tin sản phẩm
+	Mã sản phẩm
+	Tên sản phẩm
+	Số đăng ký
+	Hạn sử dụng
+	Quy cách
+	Ngày đăng ký

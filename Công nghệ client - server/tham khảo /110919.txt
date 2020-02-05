@@ -1,0 +1,17 @@
+1. Thủ tục (stored procedure) là gì? Những ưu điểm của thủ tục.
+
+2. Cho dữ liệu như sau:
+6h - 14h: 28/8/2019: Nguyễn Văn A - Làm việc X
+8h - 11h: 28/8/2019: Nguyễn Văn A - Làm việc Y
+17h - 22h: 28/8/2019: Nguyễn Văn A - Làm việc Z
+14h - 22h: 26/8/2019: Nguyễn Văn B - Làm việc V
+12h - 18h: 28/8/2019: Nguyễn Văn C - Làm việc U
+22h - 4h: 26/8/2019: Nguyễn Văn C - Làm việc Q
+1h - 6h: 26/8/2019: Nguyễn Văn C - Làm việc K
+
+Dùng thủ tục in ra bảng dưới X1 = 6h - 14h, X2 = 14h - 22h, X3 = 22h - 6h. Biết rằng mọi công nhân đều bắt đầu làm đúng giờ của ca.
+
+| STT    | Họ và tên    | Ngày      | Tham gia |
+| 1      | Nguyễn Văn A | 28/8/2019 | X1, X2   |
+| 2      | Nguyễn Văn B | 26/8/2019 | X2       |
+| 3      | Nguyễn Văn C | 26/8/2019 | X3       |
